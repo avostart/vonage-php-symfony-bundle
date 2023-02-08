@@ -4,7 +4,7 @@
     "type": "symfony-bundle",
     "require": {
         "vonage/client": "^2.4",
-        "symfony/framework-bundle": "^5.1"
+        "symfony/framework-bundle": "^6.0"
     },
     "license": "Apache-2.0",
     "authors": [
